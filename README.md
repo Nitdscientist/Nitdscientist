@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nitdscientist/Data-science-learning/tree/main/Projects](https://github.com/Nitdscientist/Data-science-learning/tree/main/Projects)
 
-- 📫 How to reach me **nitds23@gmail.com**
+- 📫 How to reach me **niteshk834@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1fwOI4UnbU3XfvSUZv43Ol64HDPpsqXjO/edit?usp=sharing&ouid=112106449402361678430&rtpof=true&sd=true](https://docs.google.com/document/d/1fwOI4UnbU3XfvSUZv43Ol64HDPpsqXjO/edit?usp=sharing&ouid=112106449402361678430&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jvYAn66Pa4SOpGoBn3YFpf6OhM35pGGb/view?usp=drive_link](https://drive.google.com/file/d/1jvYAn66Pa4SOpGoBn3YFpf6OhM35pGGb/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
