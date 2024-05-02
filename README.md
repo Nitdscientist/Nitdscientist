@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **Data Science, Machine Learning,Deep Learning, AI and IoT**
+- 🌱 I’m currently learning **Data Analytics,Data Science, Machine Learning,Deep Learning, AI and IoT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nitdscientist/Data-science-learning/tree/main/Projects](https://github.com/Nitdscientist/Data-science-learning/tree/main/Projects)
 
 - 📫 How to reach me **niteshk834@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jvYAn66Pa4SOpGoBn3YFpf6OhM35pGGb/view?usp=drive_link](https://drive.google.com/file/d/1jvYAn66Pa4SOpGoBn3YFpf6OhM35pGGb/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jvYAn66Pa4SOpGoBn3YFpf6OhM35pGGb/view?usp=drive_link]([https://drive.google.com/file/d/1jvYAn66Pa4SOpGoBn3YFpf6OhM35pGGb/view?usp=drive_link](https://drive.google.com/file/d/12uJJDYDh-kRncNDU_cxk7g6t1ebUeBZ2/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
